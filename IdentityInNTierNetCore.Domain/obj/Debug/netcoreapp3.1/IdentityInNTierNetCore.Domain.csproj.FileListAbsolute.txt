@@ -1,0 +1,10 @@
+D:\dev\OpenSource\IdentityInNTierNetCore\IdentityInNTierNetCore.Domain\bin\Debug\netcoreapp3.1\IdentityInNTierNetCore.Domain.deps.json
+D:\dev\OpenSource\IdentityInNTierNetCore\IdentityInNTierNetCore.Domain\bin\Debug\netcoreapp3.1\IdentityInNTierNetCore.Domain.dll
+D:\dev\OpenSource\IdentityInNTierNetCore\IdentityInNTierNetCore.Domain\obj\Debug\netcoreapp3.1\IdentityInNTierNetCore.Domain.AssemblyInfoInputs.cache
+D:\dev\OpenSource\IdentityInNTierNetCore\IdentityInNTierNetCore.Domain\obj\Debug\netcoreapp3.1\IdentityInNTierNetCore.Domain.AssemblyInfo.cs
+D:\dev\OpenSource\IdentityInNTierNetCore\IdentityInNTierNetCore.Domain\bin\Debug\netcoreapp3.1\IdentityInNTierNetCore.Domain.pdb
+D:\dev\OpenSource\IdentityInNTierNetCore\IdentityInNTierNetCore.Domain\obj\Debug\netcoreapp3.1\IdentityInNTierNetCore.Domain.csprojAssemblyReference.cache
+D:\dev\OpenSource\IdentityInNTierNetCore\IdentityInNTierNetCore.Domain\obj\Debug\netcoreapp3.1\IdentityInNTierNetCore.Domain.dll
+D:\dev\OpenSource\IdentityInNTierNetCore\IdentityInNTierNetCore.Domain\obj\Debug\netcoreapp3.1\IdentityInNTierNetCore.Domain.pdb
+D:\dev\OpenSource\IdentityInNTierNetCore\IdentityInNTierNetCore.Domain\bin\Debug\netcoreapp3.1\IdentityInNTierNetCore.Domain.runtimeconfig.json
+D:\dev\OpenSource\IdentityInNTierNetCore\IdentityInNTierNetCore.Domain\bin\Debug\netcoreapp3.1\IdentityInNTierNetCore.Domain.runtimeconfig.dev.json
